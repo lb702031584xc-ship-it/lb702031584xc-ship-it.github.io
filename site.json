@@ -1,0 +1,27 @@
+{
+  "domain": "https://gamevault.tools",
+  "game_name": "Steal an Egg data tools",
+  "keywords": [
+    "steal an egg",
+    "game data tools"
+  ],
+  "status": "online",
+  "launchDate": "2026-11-06",
+  "lastUpdated": "2026-11-06",
+  "platform": "Web",
+  "locales": [
+    "en"
+  ],
+  "generated": "2026-11-07T06:11:07.761Z",
+  "counts": {
+    "en": {
+      "games": 0,
+      "guides": 0,
+      "tools": 4
+    }
+  },
+  "tools": {
+    "total": 4,
+    "sample": 0
+  }
+}
